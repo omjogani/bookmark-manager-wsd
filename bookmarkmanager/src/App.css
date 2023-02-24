@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+.neumorphismBox {
+  border-radius: 34px;
+  box-shadow:  14px 14px 38px #cdead7,
+              -14px -14px 38px #ebfff7;
+}
